@@ -1,0 +1,701 @@
+id,stream,college_name,placement_status,salary
+1,Computer Science,Harvard University,Placed,60000
+2,Electrical Engineering,Massachusetts Institute of Technology,Placed,65000
+3,Mechanical Engineering,Stanford University,Placed,58000
+4,Information Technology,Yale University,Not Placed,0
+5,Computer Science,Princeton University,Placed,62000
+6,Electronics and Communication,Columbia University,Placed,63000
+7,Information Technology,California Institute of Technology,Placed,59000
+8,Computer Science,University of Chicago,Not Placed,0
+9,Electrical Engineering,University of Pennsylvania,Placed,64000
+10,Mechanical Engineering,Northwestern University,Placed,57000
+11,Computer Science,Duke University,Placed,61000
+12,Electronics and Communication,Johns Hopkins University,Not Placed,0
+13,NA,NA,Placed,
+14,Computer Science,University of Michigan--Ann Arbor,Placed,64000
+15,Electrical Engineering,University of California--Los Angeles,Placed,66000
+16,Mechanical Engineering,University of Virginia,Not Placed,0
+17,Computer Science,University of Wisconsin--Madison,Placed,61000
+18,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,62000
+19,Information Technology,University of North Carolina--Chapel Hill,Placed,59000
+20,NA,University of Washington,Placed,65000
+21,Electrical Engineering,University of California--San Diego,Placed,67000
+22,Mechanical Engineering,University of Texas--Austin,Not Placed,
+23,Computer Science,University of California--Santa Barbara,Placed,60000
+24,Electronics and Communication,University of Southern California,Placed,63000
+25,Information Technology,University of Florida,Placed,60000
+26,Computer Science,University of Minnesota--Twin Cities,Not Placed,0
+27,Electrical Engineering,University of Maryland--College Park,Placed,64000
+28,Mechanical Engineering,University of California--Davis,Placed,66000
+29,Computer Science,University of Pittsburgh,Placed,59000
+30,Electronics and Communication,University of Colorado--Boulder,Placed,62000
+31,Information Technology,University of Rochester,Placed,61000
+32,Computer Science,Boston College,Not Placed,0
+33,Electrical Engineering,Rice University,Placed,65000
+34,Electronics and Communication,University of California--Irvine,Placed,64000
+35,Information Technology,Georgetown University,Placed,67000
+36,Computer Science,University of Georgia,Not Placed,0
+37,Information Technology,University of Notre Dame,Placed,63000
+38,Computer Science,University of Iowa,Placed,62000
+39,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+40,Mechanical Engineering,University of Connecticut,Placed,61000
+41,Computer Science,University of California--Riverside,Not Placed,0
+42,Electronics and Communication,University of Delaware,Placed,65000
+43,Information Technology,University of California--San Francisco,Placed,66000
+44,Computer Science,University of Texas--Dallas,Placed,63000
+45,Electrical Engineering,University of Virginia,Placed,64000
+46,Mechanical Engineering,University of California--Santa Cruz,Not Placed,0
+47,Computer Science,University of California--San Diego,Placed,65000
+48,Electronics and Communication,University of Texas--Austin,Placed,66000
+49,Information Technology,University of California--Los Angeles,Placed,67000
+50,Computer Science,University of Michigan--Ann Arbor,Placed,68000
+51,Electrical Engineering,University of Pennsylvania,Not Placed,0
+52,Mechanical Engineering,University of Washington,Placed,67000
+53,Computer Science,University of California--Berkeley,Placed,66000
+54,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+55,Information Technology,University of Colorado--Boulder,Placed,66000
+56,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+57,Information Technology,University of Maryland--College Park,Placed,63000
+58,Computer Science,University of Rochester,Placed,62000
+59,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+60,Mechanical Engineering,University of Connecticut,Placed,61000
+61,Computer Science,University of California--Riverside,Not Placed,0
+62,Electronics and Communication,University of Delaware,Placed,65000
+63,Information Technology,University of California--San Francisco,Placed,66000
+64,Computer Science,University of Texas--Dallas,Placed,63000
+65,Electrical Engineering,University of Virginia,Placed,64000
+66,Mechanical Engineering,University of California--Santa Cruz,Not Placed,0
+67,Computer Science,University of California--San Diego,Placed,65000
+68,Electronics and Communication,University of Texas--Austin,Placed,66000
+69,Information Technology,University of California--Los Angeles,Placed,67000
+70,Computer Science,University of Michigan--Ann Arbor,Placed,68000
+71,Electrical Engineering,University of Pennsylvania,Not Placed,0
+72,Mechanical Engineering,University of Washington,Placed,67000
+73,Computer Science,University of California--Berkeley,Placed,66000
+74,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+75,Information Technology,University of Colorado--Boulder,Placed,66000
+76,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+77,Information Technology,University of Maryland--College Park,Placed,63000
+78,Computer Science,University of Rochester,Placed,62000
+79,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+80,Mechanical Engineering,University of Connecticut,Placed,61000
+81,Computer Science,University of California--Riverside,Not Placed,0
+82,Electronics and Communication,University of Delaware,Placed,65000
+83,Information Technology,University of California--San Francisco,Placed,66000
+84,Computer Science,University of Texas--Dallas,Placed,63000
+85,Electrical Engineering,University of Virginia,Placed,64000
+86,Mechanical Engineering,University of California--Santa Cruz,Not Placed,0
+87,Computer Science,University of California--San Diego,Placed,65000
+88,Electronics and Communication,University of Texas--Austin,Placed,66000
+89,Information Technology,University of California--Los Angeles,Placed,67000
+90,Computer Science,University of Michigan--Ann Arbor,Placed,68000
+91,Electrical Engineering,University of Pennsylvania,Not Placed,0
+92,Mechanical Engineering,University of Washington,Placed,67000
+93,Computer Science,University of California--Berkeley,Placed,66000
+94,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+95,Information Technology,University of Colorado--Boulder,Placed,66000
+96,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+97,Information Technology,University of Maryland--College Park,Placed,63000
+98,Computer Science,University of Rochester,Placed,62000
+99,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+100,Mechanical Engineering,University of Connecticut,Placed,61000
+101,Computer Science,University of California--Riverside,Not Placed,0
+102,Electronics and Communication,University of Delaware,Placed,65000
+103,Information Technology,University of California--San Francisco,Placed,66000
+104,Computer Science,University of Texas--Dallas,Placed,63000
+105,Electrical Engineering,University of Virginia,Placed,64000
+106,Mechanical Engineering,University of California--Santa Cruz,Not Placed,0
+107,Computer Science,University of California--San Diego,Placed,65000
+108,Electronics and Communication,University of Texas--Austin,Placed,66000
+109,Information Technology,University of California--Los Angeles,Placed,67000
+110,Computer Science,University of Michigan--Ann Arbor,Placed,68000
+111,Electrical Engineering,University of Pennsylvania,Not Placed,0
+112,Mechanical Engineering,University of Washington,Placed,67000
+113,Computer Science,University of California--Berkeley,Placed,66000
+114,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+115,Information Technology,University of Colorado--Boulder,Placed,66000
+116,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+117,Information Technology,University of Maryland--College Park,Placed,63000
+118,Computer Science,University of Rochester,Placed,62000
+119,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+120,Mechanical Engineering,University of Connecticut,Placed,61000
+121,Computer Science,University of California--Riverside,Not Placed,0
+122,Electronics and Communication,University of Delaware,Placed,65000
+123,Information Technology,University of California--San Francisco,Placed,66000
+124,Computer Science,University of Texas--Dallas,Placed,63000
+125,Electrical Engineering,University of Virginia,Placed,64000
+126,Mechanical Engineering,University of California--Santa Cruz,Not Placed,0
+127,Computer Science,University of California--San Diego,Placed,65000
+128,Electronics and Communication,University of Texas--Austin,Placed,66000
+129,Information Technology,University of California--Los Angeles,Placed,67000
+130,Computer Science,University of Michigan--Ann Arbor,Placed,68000
+131,Electrical Engineering,University of Pennsylvania,Not Placed,0
+132,Mechanical Engineering,University of Washington,Placed,67000
+133,Computer Science,University of California--Berkeley,Placed,66000
+134,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+135,Information Technology,University of Colorado--Boulder,Placed,66000
+136,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+137,Information Technology,University of Maryland--College Park,Placed,63000
+138,Computer Science,University of Rochester,Placed,62000
+139,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+140,Mechanical Engineering,University of Connecticut,Placed,61000
+141,Computer Science,University of California--Riverside,Not Placed,0
+142,Electronics and Communication,University of Delaware,Placed,65000
+143,Information Technology,University of California--San Francisco,Placed,66000
+144,Computer Science,University of Texas--Dallas,Placed,63000
+145,Electrical Engineering,University of Virginia,Placed,64000
+146,Mechanical Engineering,University of California--Santa Cruz,Not Placed,0
+147,Computer Science,University of California--San Diego,Placed,65000
+148,Electronics and Communication,University of Texas--Austin,Placed,66000
+149,Information Technology,University of California--Los Angeles,Placed,67000
+150,Computer Science,University of Michigan--Ann Arbor,Placed,68000
+151,Electrical Engineering,University of Pennsylvania,Not Placed,0
+152,Mechanical Engineering,University of Washington,Placed,67000
+153,Computer Science,University of California--Berkeley,Placed,66000
+154,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+155,Information Technology,University of Colorado--Boulder,Placed,66000
+156,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+157,Information Technology,University of Maryland--College Park,Placed,63000
+158,Computer Science,University of Rochester,Placed,62000
+159,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+160,Mechanical Engineering,University of Connecticut,Placed,61000
+161,Computer Science,University of California--Riverside,Not Placed,0
+162,Electronics and Communication,University of Delaware,Placed,65000
+163,Information Technology,University of California--San Francisco,Placed,66000
+164,Computer Science,University of Texas--Dallas,Placed,63000
+165,Electrical Engineering,University of Virginia,Placed,64000
+166,Mechanical Engineering,University of California--Santa Cruz,Not Placed,0
+167,Computer Science,University of California--San Diego,Placed,65000
+168,Electronics and Communication,University of Texas--Austin,Placed,66000
+169,Information Technology,University of California--Los Angeles,Placed,67000
+170,Computer Science,University of Michigan--Ann Arbor,Placed,68000
+171,Electrical Engineering,University of Pennsylvania,Not Placed,0
+172,Mechanical Engineering,University of Washington,Placed,67000
+173,Computer Science,University of California--Berkeley,Placed,66000
+174,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+175,Information Technology,University of Colorado--Boulder,Placed,66000
+176,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+177,Information Technology,University of Maryland--College Park,Placed,63000
+178,Computer Science,University of Rochester,Placed,62000
+179,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+180,Mechanical Engineering,University of Connecticut,Placed,61000
+181,Computer Science,University of California--Riverside,Not Placed,0
+182,Electronics and Communication,University of Delaware,Placed,65000
+183,Information Technology,University of California--San Francisco,Placed,66000
+184,Computer Science,University of Texas--Dallas,Placed,63000
+185,Electrical Engineering,University of Virginia,Placed,64000
+186,Mechanical Engineering,University of California--Santa Cruz,Not Placed,0
+187,Computer Science,University of California--San Diego,Placed,65000
+188,Electronics and Communication,University of Texas--Austin,Placed,66000
+189,Information Technology,University of Maryland--College Park,Placed,61000
+190,Computer Science,University of Michigan--Ann Arbor,Placed,64000
+191,Electrical Engineering,University of California--Los Angeles,Placed,66000
+192,Mechanical Engineering,University of Virginia,Placed,67000
+193,Electronics and Communication,University of Texas--Austin,Placed,68000
+194,Computer Science,University of Pennsylvania,Not Placed,0
+195,Information Technology,University of Washington,Placed,67000
+196,Electrical Engineering,University of California--Berkeley,Placed,66000
+197,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+198,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+199,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+200,Information Technology,University of Maryland--College Park,Placed,63000
+201,Computer Science,University of Michigan--Ann Arbor,Placed,64000
+202,Electrical Engineering,University of California--Los Angeles,Placed,66000
+203,Mechanical Engineering,University of Virginia,Placed,67000
+204,Electronics and Communication,University of Texas--Austin,Placed,68000
+205,Computer Science,University of Pennsylvania,Not Placed,0
+206,Information Technology,University of Washington,Placed,67000
+207,Electrical Engineering,University of California--Berkeley,Placed,66000
+208,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+209,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+210,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+211,Information Technology,University of Maryland--College Park,Placed,63000
+212,Electrical Engineering,University of Michigan--Ann Arbor,Placed,64000
+213,Mechanical Engineering,University of California--Los Angeles,Placed,66000
+214,Electronics and Communication,University of Virginia,Placed,67000
+215,Computer Science,University of Texas--Austin,Placed,68000
+216,Information Technology,University of Pennsylvania,Not Placed,0
+217,Electrical Engineering,University of Washington,Placed,67000
+218,Mechanical Engineering,University of California--Berkeley,Placed,66000
+219,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+220,Computer Science,University of Colorado--Boulder,Placed,66000
+221,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+222,Electrical Engineering,University of Maryland--College Park,Placed,63000
+223,Mechanical Engineering,University of Michigan--Ann Arbor,Placed,64000
+224,Electronics and Communication,University of California--Los Angeles,Placed,66000
+225,Computer Science,University of Virginia,Placed,67000
+226,Information Technology,University of Texas--Austin,Placed,68000
+227,Electrical Engineering,University of Pennsylvania,Not Placed,0
+228,Mechanical Engineering,University of Washington,Placed,67000
+229,Electronics and Communication,University of California--Berkeley,Placed,66000
+230,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+231,Information Technology,University of Colorado--Boulder,Placed,66000
+232,Electrical Engineering,University of North Carolina--Chapel Hill,Not Placed,0
+233,Mechanical Engineering,University of Maryland--College Park,Placed,63000
+234,Electronics and Communication,University of Michigan--Ann Arbor,Placed,64000
+235,Computer Science,University of California--Los Angeles,Placed,66000
+236,Information Technology,University of Virginia,Placed,67000
+237,Electrical Engineering,University of Texas--Austin,Placed,68000
+238,Mechanical Engineering,University of Pennsylvania,Not Placed,0
+239,Electronics and Communication,University of Washington,Placed,67000
+240,Computer Science,University of California--Berkeley,Placed,66000
+241,Information Technology,University of Illinois--Urbana-Champaign,Placed,65000
+242,Electrical Engineering,University of Colorado--Boulder,Placed,66000
+243,Mechanical Engineering,University of North Carolina--Chapel Hill,Not Placed,0
+244,Electronics and Communication,University of Maryland--College Park,Placed,63000
+245,Computer Science,University of Michigan--Ann Arbor,Placed,64000
+246,Information Technology,University of California--Los Angeles,Placed,66000
+247,Electrical Engineering,University of Virginia,Placed,67000
+248,Mechanical Engineering,University of Texas--Austin,Placed,68000
+249,Electronics and Communication,University of Pennsylvania,Not Placed,0
+250,Computer Science,University of Washington,Placed,67000
+251,Information Technology,University of California--Berkeley,Placed,66000
+252,Electrical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+253,Mechanical Engineering,University of Colorado--Boulder,Placed,66000
+254,Electronics and Communication,University of North Carolina--Chapel Hill,Not Placed,0
+255,Computer Science,University of Maryland--College Park,Placed,63000
+256,Information Technology,University of Michigan--Ann Arbor,Placed,64000
+257,Electrical Engineering,University of California--Los Angeles,Placed,66000
+258,Mechanical Engineering,University of Virginia,Placed,67000
+259,Electronics and Communication,University of Texas--Austin,Placed,68000
+260,Computer Science,University of Pennsylvania,Not Placed,0
+261,Information Technology,University of Washington,Placed,67000
+262,Electrical Engineering,University of California--Berkeley,Placed,66000
+263,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+264,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+265,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+266,Information Technology,University of Maryland--College Park,Placed,63000
+267,Electrical Engineering,University of Michigan--Ann Arbor,Placed,64000
+268,Mechanical Engineering,University of California--Los Angeles,Placed,66000
+269,Electronics and Communication,University of Virginia,Placed,67000
+270,Computer Science,University of Texas--Austin,Placed,68000
+271,Information Technology,University of Pennsylvania,Not Placed,0
+272,Electrical Engineering,University of Washington,Placed,67000
+273,Mechanical Engineering,University of California--Berkeley,Placed,66000
+274,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+275,Computer Science,University of Colorado--Boulder,Placed,66000
+276,Computer Science,University of California--San Diego,Placed,64000
+277,Electrical Engineering,University of Texas--Austin,Placed,65000
+278,Information Technology,University of California--Los Angeles,Placed,67000
+279,Mechanical Engineering,University of Michigan--Ann Arbor,Placed,68000
+280,Computer Science,University of Pennsylvania,Not Placed,0
+281,Electronics and Communication,University of Washington,Placed,67000
+282,Information Technology,University of California--Berkeley,Placed,66000
+283,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+284,Computer Science,University of Colorado--Boulder,Placed,66000
+285,Electrical Engineering,University of North Carolina--Chapel Hill,Not Placed,0
+286,Information Technology,University of Maryland--College Park,Placed,63000
+287,Mechanical Engineering,University of Rochester,Placed,62000
+288,Computer Science,University of California--Santa Cruz,Placed,60000
+289,Electronics and Communication,University of Connecticut,Placed,61000
+290,Information Technology,University of California--Riverside,Not Placed,0
+291,Mechanical Engineering,University of Delaware,Placed,65000
+292,Computer Science,University of California--San Francisco,Placed,66000
+293,Electrical Engineering,University of Texas--Dallas,Placed,63000
+294,Information Technology,University of Virginia,Placed,64000
+295,Computer Science,University of California--Los Angeles,Placed,67000
+296,Electronics and Communication,University of Michigan--Ann Arbor,Placed,68000
+297,Information Technology,University of Pennsylvania,Not Placed,0
+298,Mechanical Engineering,University of Washington,Placed,67000
+299,Computer Science,University of California--Berkeley,Placed,66000
+300,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+301,Computer Science,University of Colorado--Boulder,Placed,66000
+302,Electrical Engineering,University of North Carolina--Chapel Hill,Not Placed,0
+303,Information Technology,University of Maryland--College Park,Placed,63000
+304,Mechanical Engineering,University of Rochester,Placed,62000
+305,Computer Science,University of California--Santa Cruz,Placed,60000
+306,Electrical Engineering,University of Connecticut,Placed,61000
+307,Information Technology,University of California--Riverside,Not Placed,0
+308,Computer Science,University of Delaware,Placed,65000
+309,Electronics and Communication,University of California--San Francisco,Placed,66000
+310,Information Technology,University of Texas--Dallas,Placed,63000
+311,Mechanical Engineering,University of Virginia,Placed,64000
+312,Computer Science,University of California--Los Angeles,Placed,67000
+313,Electronics and Communication,University of Michigan--Ann Arbor,Placed,68000
+314,Computer Science,University of Pennsylvania,Not Placed,0
+315,Electrical Engineering,University of Washington,Placed,67000
+316,Information Technology,University of California--Berkeley,Placed,66000
+317,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+318,Computer Science,University of Colorado--Boulder,Placed,66000
+319,Electrical Engineering,University of North Carolina--Chapel Hill,Not Placed,0
+320,Information Technology,University of Maryland--College Park,Placed,63000
+321,Computer Science,University of Rochester,Placed,62000
+322,Electronics and Communication,University of California--Santa Cruz,Placed,60000
+323,Information Technology,University of Connecticut,Placed,61000
+324,Mechanical Engineering,University of California--Riverside,Not Placed,0
+325,Computer Science,University of Delaware,Placed,65000
+326,Electronics and Communication,University of California--San Francisco,Placed,66000
+327,Computer Science,University of Texas--Dallas,Placed,63000
+328,Electrical Engineering,University of Virginia,Placed,64000
+329,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+330,Mechanical Engineering,University of Pennsylvania,Not Placed,0
+331,Computer Science,University of Washington,Placed,67000
+332,Electrical Engineering,University of California--Los Angeles,Placed,66000
+333,Information Technology,University of California--Berkeley,Placed,65000
+334,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+335,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+336,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+337,Mechanical Engineering,University of Maryland--College Park,Placed,63000
+338,Computer Science,University of Rochester,Placed,62000
+339,Electronics and Communication,University of California--Santa Cruz,Placed,60000
+340,Computer Science,University of Connecticut,Placed,61000
+341,Electrical Engineering,University of California--Riverside,Not Placed,0
+342,Information Technology,,Placed,65000
+343,Mechanical Engineering,University of California--San Francisco,Placed,66000
+344,Computer Science,University of Texas--Dallas,Placed,63000
+345,Electrical Engineering,University of Virginia,Placed,64000
+346,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+347,Computer Science,University of Pennsylvania,Not Placed,0
+348,Electronics and Communication,University of Washington,Placed,67000
+349,Information Technology,University of California--Berkeley,Placed,66000
+350,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+351,Computer Science,University of Colorado--Boulder,Placed,66000
+352,Electronics and Communication,University of North Carolina--Chapel Hill,Not Placed,0
+353,Computer Science,University of Maryland--College Park,Placed,63000
+354,Electrical Engineering,University of Rochester,Placed,
+355,Information Technology,University of California--Santa Cruz,Placed,60000
+356,Mechanical Engineering,University of Connecticut,Placed,61000
+357,Computer Science,University of California--Riverside,Not Placed,0
+358,Electrical Engineering,University of Delaware,Placed,65000
+359,Information Technology,University of California--San Francisco,Placed,66000
+360,Computer Science,University of Texas--Dallas,Placed,63000
+361,Electronics and Communication,University of Virginia,Placed,64000
+362,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+363,Mechanical Engineering,University of Pennsylvania,Not Placed,0
+364,Computer Science,University of Washington,Placed,67000
+365,Electronics and Communication,University of California--Berkeley,Placed,66000
+366,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+367,Electrical Engineering,University of Colorado--Boulder,Placed,NA
+368,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+369,Mechanical Engineering,University of Maryland--College Park,Placed,63000
+370,Computer Science,University of Rochester,Placed,62000
+371,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+372,Information Technology,University of Connecticut,Placed,61000
+373,Computer Science,University of California--Riverside,Not Placed,0
+374,Electronics and Communication,University of Delaware,Placed,65000
+375,Information Technology,NA,Placed,66000
+376,Mechanical Engineering,University of Texas--Dallas,Placed,63000
+377,Computer Science,University of Michigan--Ann Arbor,Placed,64000
+378,Electronics and Communication,University of Virginia,Placed,67000
+379,Computer Science,University of California--Los Angeles,Placed,67000
+380,Electrical Engineering,University of California--Berkeley,Placed,66000
+381,Information Technology,University of Illinois--Urbana-Champaign,Placed,65000
+382,Mechanical Engineering,University of Colorado--Boulder,Placed,66000
+383,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+384,Electrical Engineering,University of Maryland--College Park,Placed,63000
+385,Information Technology,University of Rochester,Placed,62000
+386,Computer Science,University of California--Santa Cruz,Placed,60000
+387,Electronics and Communication,University of Connecticut,Placed,61000
+388,Information Technology,University of California--Riverside,Not Placed,0
+389,Mechanical Engineering,University of Delaware,Placed,65000
+390,Computer Science,University of California--San Francisco,Placed,66000
+391,Electronics and Communication,University of Texas--Dallas,Placed,63000
+392,Computer Science,University of Virginia,Placed,64000
+393,Electrical Engineering,University of Michigan--Ann Arbor,Placed,67000
+394,Information Technology,University of Pennsylvania,Not Placed,0
+395,Mechanical Engineering,University of Washington,Placed,67000
+396,Computer Science,University of California--Berkeley,Placed,66000
+397,Electrical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+398,Information Technology,University of Colorado--Boulder,Placed,66000
+399,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+400,Electronics and Communication,University of Maryland--College Park,Placed,63000
+401,Information Technology,University of Rochester,Placed,62000
+402,Mechanical Engineering,University of California--Santa Cruz,Placed,60000
+403,Computer Science,University of Connecticut,Placed,61000
+404,Electrical Engineering,University of California--Riverside,Not Placed,0
+405,Computer Science,University of Delaware,Placed,65000
+406,Electronics and Communication,University of California--San Francisco,Placed,66000
+407,Information Technology,University of Texas--Dallas,Placed,63000
+408,Mechanical Engineering,University of Virginia,Placed,64000
+409,Computer Science,University of Michigan--Ann Arbor,Placed,67000
+410,Electrical Engineering,University of Pennsylvania,Not Placed,0
+411,Information Technology,University of Washington,Placed,67000
+412,Computer Science,University of California--Berkeley,Placed,66000
+413,Electronics and Communication,University of Illinois--Urbana-Champaign,Placed,65000
+414,Information Technology,University of Colorado--Boulder,Placed,66000
+415,Mechanical Engineering,University of North Carolina--Chapel Hill,Not Placed,0
+416,Computer Science,University of Maryland--College Park,Placed,63000
+417,Electronics and Communication,University of Rochester,Placed,62000
+418,Computer Science,University of California--Santa Cruz,Placed,60000
+419,Electrical Engineering,University of Connecticut,Placed,61000
+420,Information Technology,University of California--Riverside,Not Placed,0
+421,Mechanical Engineering,University of Delaware,Placed,65000
+422,Computer Science,University of California--San Francisco,Placed,66000
+423,Electrical Engineering,University of Texas--Dallas,Placed,63000
+424,Information Technology,University of Virginia,Placed,64000
+425,Computer Science,University of Michigan--Ann Arbor,Placed,67000
+426,Electronics and Communication,University of Pennsylvania,Not Placed,0
+427,Information Technology,University of Washington,Placed,67000
+428,Mechanical Engineering,University of California--Berkeley,Placed,66000
+429,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+430,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+431,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+432,Electrical Engineering,University of Maryland--College Park,Placed,63000
+433,Information Technology,University of Rochester,Placed,62000
+434,Mechanical Engineering,University of California--Santa Cruz,Placed,60000
+435,Computer Science,University of Connecticut,Placed,61000
+436,Electrical Engineering,University of California--Riverside,Not Placed,0
+437,Information Technology,University of Delaware,Placed,65000
+438,Computer Science,University of California--San Francisco,Placed,66000
+439,Electronics and Communication,University of Texas--Dallas,Placed,63000
+440,Information Technology,University of Virginia,Placed,64000
+441,Mechanical Engineering,University of Michigan--Ann Arbor,Placed,67000
+442,Computer Science,University of Pennsylvania,Not Placed,0
+443,Electronics and Communication,University of Washington,Placed,67000
+444,Computer Science,University of California--Berkeley,Placed,66000
+445,Electrical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+446,Information Technology,University of Colorado--Boulder,Placed,66000
+447,Mechanical Engineering,University of North Carolina--Chapel Hill,Not Placed,0
+448,Computer Science,University of Maryland--College Park,Placed,63000
+449,Electrical Engineering,University of Rochester,Placed,62000
+450,Information Technology,University of California--Santa Cruz,Placed,60000
+451,Computer Science,University of Connecticut,Placed,61000
+452,Electronics and Communication,University of California--Riverside,Not Placed,0
+453,Information Technology,University of Delaware,Placed,65000
+454,Mechanical Engineering,University of California--San Francisco,Placed,66000
+455,Computer Science,University of Texas--Dallas,Placed,63000
+456,Electronics and Communication,University of Virginia,Placed,64000
+457,Computer Science,University of Michigan--Ann Arbor,Placed,67000
+458,Electrical Engineering,University of Pennsylvania,Not Placed,0
+459,Information Technology,University of Washington,Placed,67000
+460,Mechanical Engineering,University of California--Berkeley,Placed,66000
+461,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+462,Electrical Engineering,University of Colorado--Boulder,Placed,66000
+463,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+464,Computer Science,University of Maryland--College Park,Placed,63000
+465,Electronics and Communication,University of Rochester,Placed,62000
+466,Information Technology,University of California--Santa Cruz,Placed,60000
+467,Mechanical Engineering,University of Connecticut,Placed,61000
+468,Computer Science,University of California--Riverside,Not Placed,0
+469,Electronics and Communication,University of Delaware,Placed,65000
+470,Computer Science,University of California--San Francisco,Placed,66000
+471,Electrical Engineering,University of Texas--Dallas,Placed,63000
+472,Information Technology,University of Virginia,Placed,64000
+473,Mechanical Engineering,University of Michigan--Ann Arbor,Placed,67000
+474,Computer Science,University of Pennsylvania,Not Placed,0
+475,Electrical Engineering,University of Washington,Placed,67000
+476,Information Technology,University of California--Berkeley,Placed,66000
+477,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+478,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+479,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+480,Mechanical Engineering,University of Maryland--College Park,Placed,63000
+481,Computer Science,University of Rochester,Placed,62000
+482,Electronics and Communication,University of California--Santa Cruz,Placed,60000
+483,Computer Science,University of Connecticut,Placed,61000
+484,Electrical Engineering,University of California--Riverside,Not Placed,0
+485,Information Technology,University of Delaware,Placed,65000
+486,Mechanical Engineering,University of California--San Francisco,Placed,66000
+487,Computer Science,University of Texas--Dallas,Placed,63000
+488,Electrical Engineering,University of Virginia,Placed,64000
+489,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+490,Computer Science,University of Pennsylvania,Not Placed,0
+491,Electronics and Communication,University of Washington,Placed,67000
+492,Information Technology,University of California--Berkeley,Placed,66000
+493,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+494,Computer Science,University of Colorado--Boulder,Placed,66000
+495,Electronics and Communication,University of North Carolina--Chapel Hill,Not Placed,0
+496,Computer Science,University of Maryland--College Park,Placed,63000
+497,Electrical Engineering,University of Rochester,Placed,62000
+498,Information Technology,University of California--Santa Cruz,Placed,60000
+499,Mechanical Engineering,University of Connecticut,Placed,61000
+500,Computer Science,University of California--Riverside,Not Placed,0
+501,Electrical Engineering,University of Delaware,Placed,65000
+502,Information Technology,University of California--San Francisco,Placed,66000
+503,Computer Science,University of Texas--Dallas,Placed,63000
+504,Electronics and Communication,University of Virginia,Placed,64000
+505,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+506,Mechanical Engineering,University of Pennsylvania,Not Placed,0
+507,Computer Science,University of Washington,Placed,67000
+508,Electronics and Communication,University of California--Berkeley,Placed,66000
+509,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+510,Electrical Engineering,University of Colorado--Boulder,Placed,66000
+511,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+512,Mechanical Engineering,University of Maryland--College Park,Placed,63000
+513,Computer Science,University of Rochester,Placed,62000
+514,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+515,Information Technology,University of Connecticut,Placed,61000
+516,Computer Science,University of California--Riverside,Not Placed,0
+517,Electronics and Communication,University of Delaware,Placed,65000
+518,Information Technology,University of California--San Francisco,Placed,66000
+519,Mechanical Engineering,University of Texas--Dallas,Placed,63000
+520,Computer Science,University of Michigan--Ann Arbor,Placed,64000
+521,Electronics and Communication,University of Virginia,Placed,67000
+522,Computer Science,University of California--Los Angeles,Placed,67000
+523,Electrical Engineering,University of California--Berkeley,Placed,66000
+524,Information Technology,University of Illinois--Urbana-Champaign,Placed,65000
+525,Mechanical Engineering,University of Colorado--Boulder,Placed,66000
+526,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+527,Electrical Engineering,University of Maryland--College Park,Placed,63000
+528,Information Technology,University of Rochester,Placed,62000
+529,Computer Science,University of California--Santa Cruz,Placed,60000
+530,Electronics and Communication,University of Connecticut,Placed,61000
+531,Information Technology,University of California--Riverside,Not Placed,0
+532,Mechanical Engineering,University of Delaware,Placed,65000
+533,Computer Science,University of California--San Francisco,Placed,66000
+534,Electronics and Communication,University of Texas--Dallas,Placed,63000
+535,Computer Science,University of Virginia,Placed,64000
+536,Electrical Engineering,University of Michigan--Ann Arbor,Placed,67000
+537,Information Technology,University of Pennsylvania,Not Placed,0
+538,Mechanical Engineering,University of Washington,Placed,67000
+539,Computer Science,University of California--Berkeley,Placed,66000
+540,Electrical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+541,Information Technology,University of Colorado--Boulder,Placed,66000
+542,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+543,Electronics and Communication,University of Maryland--College Park,Placed,63000
+544,Information Technology,University of Rochester,Placed,62000
+545,Mechanical Engineering,University of California--Santa Cruz,Placed,60000
+546,Computer Science,University of California--Riverside,Not Placed,0
+547,Electronics and Communication,University of Delaware,Placed,65000
+548,Computer Science,University of California--San Francisco,Placed,66000
+549,Electrical Engineering,University of Texas--Dallas,Placed,63000
+550,Information Technology,University of Virginia,Placed,64000
+551,Mechanical Engineering,University of Michigan--Ann Arbor,Placed,67000
+552,Computer Science,University of Pennsylvania,Not Placed,0
+553,Electrical Engineering,University of Washington,Placed,67000
+554,Information Technology,University of California--Berkeley,Placed,66000
+555,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+556,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+557,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+558,Mechanical Engineering,University of Maryland--College Park,Placed,63000
+559,Computer Science,University of Rochester,Placed,62000
+560,Electronics and Communication,University of California--Santa Cruz,Placed,60000
+561,Computer Science,University of Connecticut,Placed,61000
+562,Electrical Engineering,University of California--Riverside,Not Placed,0
+563,Information Technology,University of Delaware,Placed,65000
+564,Mechanical Engineering,University of California--San Francisco,Placed,66000
+565,Computer Science,University of Texas--Dallas,Placed,63000
+566,Electrical Engineering,University of Virginia,Placed,64000
+567,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+568,Computer Science,University of Pennsylvania,Not Placed,0
+569,Electronics and Communication,University of Washington,Placed,67000
+570,Information Technology,University of California--Berkeley,Placed,66000
+571,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+572,Computer Science,University of Colorado--Boulder,Placed,66000
+573,Electronics and Communication,University of North Carolina--Chapel Hill,Not Placed,0
+574,Computer Science,University of Maryland--College Park,Placed,63000
+575,Electrical Engineering,University of Rochester,Placed,62000
+576,Information Technology,University of California--Santa Cruz,Placed,60000
+577,Mechanical Engineering,University of Connecticut,Placed,61000
+578,Computer Science,University of California--Riverside,Not Placed,0
+579,Electrical Engineering,University of Delaware,Placed,65000
+580,Information Technology,University of California--San Francisco,Placed,66000
+581,Computer Science,University of Texas--Dallas,Placed,63000
+582,Electronics and Communication,University of Virginia,Placed,64000
+583,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+584,Mechanical Engineering,University of Pennsylvania,Not Placed,0
+585,Computer Science,University of Washington,Placed,67000
+586,Electronics and Communication,University of California--Berkeley,Placed,66000
+587,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+588,Electrical Engineering,University of Colorado--Boulder,Placed,66000
+589,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+590,Mechanical Engineering,University of Maryland--College Park,Placed,63000
+591,Computer Science,University of Rochester,Placed,62000
+592,Electrical Engineering,University of California--Santa Cruz,Placed,60000
+593,Information Technology,University of Connecticut,Placed,61000
+594,Computer Science,University of California--Riverside,Not Placed,0
+595,Electronics and Communication,University of Delaware,Placed,65000
+596,Information Technology,University of California--San Francisco,Placed,66000
+597,Mechanical Engineering,University of Texas--Dallas,Placed,63000
+598,Computer Science,University of Michigan--Ann Arbor,Placed,64000
+599,Electronics and Communication,University of Virginia,Placed,67000
+600,Computer Science,University of California--Los Angeles,Placed,67000
+601,Electrical Engineering,University of California--Berkeley,Placed,66000
+602,Information Technology,University of Illinois--Urbana-Champaign,Placed,65000
+603,Mechanical Engineering,University of Colorado--Boulder,Placed,66000
+604,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+605,Electrical Engineering,University of Maryland--College Park,Placed,63000
+606,Information Technology,University of Rochester,Placed,62000
+607,Computer Science,University of California--Santa Cruz,Placed,60000
+608,Electronics and Communication,University of Connecticut,Placed,61000
+609,Information Technology,University of California--Riverside,Not Placed,0
+610,Mechanical Engineering,University of Delaware,Placed,65000
+611,Computer Science,University of California--San Francisco,Placed,66000
+612,Electronics and Communication,University of Texas--Dallas,Placed,63000
+613,Computer Science,University of Virginia,Placed,64000
+614,Electrical Engineering,University of Michigan--Ann Arbor,Placed,67000
+615,Information Technology,University of Pennsylvania,Not Placed,0
+616,Mechanical Engineering,University of Washington,Placed,67000
+617,Computer Science,University of California--Berkeley,Placed,66000
+618,Electrical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+619,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+620,Computer Science,University of North Carolina--Chapel Hill,Not Placed,0
+621,Electrical Engineering,University of Maryland--College Park,Placed,63000
+622,Information Technology,University of Rochester,Placed,62000
+623,Mechanical Engineering,University of California--Santa Cruz,Placed,60000
+624,Computer Science,University of Connecticut,Placed,61000
+625,Electrical Engineering,University of California--Riverside,Not Placed,0
+626,Information Technology,University of Delaware,Placed,65000
+627,Computer Science,University of California--San Francisco,Placed,66000
+628,Electronics and Communication,University of Texas--Dallas,Placed,63000
+629,Information Technology,University of Virginia,Placed,64000
+630,Mechanical Engineering,University of Michigan--Ann Arbor,Placed,67000
+631,Computer Science,University of Pennsylvania,Not Placed,0
+632,Electronics and Communication,University of Washington,Placed,67000
+633,Computer Science,University of California--Berkeley,Placed,66000
+634,Electrical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+635,Information Technology,University of Colorado--Boulder,Placed,66000
+636,Mechanical Engineering,University of North Carolina--Chapel Hill,Not Placed,0
+637,Computer Science,University of Maryland--College Park,Placed,63000
+638,Electrical Engineering,University of Rochester,Placed,62000
+639,Information Technology,University of California--Santa Cruz,Placed,60000
+640,Computer Science,University of Connecticut,Placed,61000
+641,Electronics and Communication,University of California--Riverside,Not Placed,0
+642,Information Technology,University of Delaware,Placed,65000
+643,Mechanical Engineering,University of California--San Francisco,Placed,66000
+644,Computer Science,University of Texas--Dallas,Placed,63000
+645,Electronics and Communication,University of Virginia,Placed,64000
+646,Computer Science,University of Michigan--Ann Arbor,Placed,67000
+647,Electrical Engineering,University of Pennsylvania,Not Placed,0
+648,Information Technology,University of Washington,Placed,67000
+649,Mechanical Engineering,University of California--Berkeley,Placed,66000
+650,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+651,Electrical Engineering,University of Colorado--Boulder,Placed,66000
+652,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+653,Computer Science,University of Maryland--College Park,Placed,63000
+654,Electronics and Communication,University of Rochester,Placed,62000
+655,Information Technology,University of California--Santa Cruz,Placed,60000
+656,Mechanical Engineering,University of Connecticut,Placed,61000
+657,Computer Science,University of California--Riverside,Not Placed,0
+658,Electronics and Communication,University of Delaware,Placed,65000
+659,Computer Science,University of California--San Francisco,Placed,66000
+660,Electrical Engineering,University of Texas--Dallas,Placed,63000
+661,Information Technology,University of Virginia,Placed,64000
+662,Mechanical Engineering,University of Michigan--Ann Arbor,Placed,67000
+663,Computer Science,University of Pennsylvania,Not Placed,0
+664,Electrical Engineering,University of Washington,Placed,67000
+665,Information Technology,University of California--Berkeley,Placed,66000
+666,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+667,Electronics and Communication,University of Colorado--Boulder,Placed,66000
+668,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
+669,Mechanical Engineering,University of Maryland--College Park,Placed,63000
+670,Computer Science,University of Rochester,Placed,62000
+671,Electronics and Communication,University of California--Santa Cruz,Placed,60000
+672,Computer Science,University of Connecticut,Placed,61000
+673,Electrical Engineering,University of California--Riverside,Not Placed,0
+674,Information Technology,University of Delaware,Placed,65000
+675,Mechanical Engineering,University of California--San Francisco,Placed,66000
+676,Computer Science,University of Texas--Dallas,Placed,63000
+677,Electrical Engineering,University of Virginia,Placed,64000
+678,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+679,Computer Science,University of Pennsylvania,Not Placed,0
+680,Electronics and Communication,University of Washington,Placed,67000
+681,Information Technology,University of California--Berkeley,Placed,66000
+682,Mechanical Engineering,University of Illinois--Urbana-Champaign,Placed,65000
+683,Computer Science,University of Colorado--Boulder,Placed,66000
+684,Electronics and Communication,University of North Carolina--Chapel Hill,Not Placed,0
+685,Computer Science,University of Maryland--College Park,Placed,63000
+686,Electrical Engineering,University of Rochester,Placed,62000
+687,Information Technology,University of California--Santa Cruz,Placed,60000
+688,Mechanical Engineering,University of Connecticut,Placed,61000
+689,Computer Science,University of California--Riverside,Not Placed,0
+690,Electrical Engineering,University of Delaware,Placed,65000
+691,Information Technology,University of California--San Francisco,Placed,66000
+692,Computer Science,University of Texas--Dallas,Placed,63000
+693,Electronics and Communication,University of Virginia,Placed,64000
+694,Information Technology,University of Michigan--Ann Arbor,Placed,67000
+695,Mechanical Engineering,University of Pennsylvania,Not Placed,0
+696,Computer Science,University of Washington,Placed,67000
+697,Electronics and Communication,University of California--Berkeley,Placed,66000
+698,Computer Science,University of Illinois--Urbana-Champaign,Placed,65000
+699,Electrical Engineering,University of Colorado--Boulder,Placed,66000
+700,Information Technology,University of North Carolina--Chapel Hill,Not Placed,0
